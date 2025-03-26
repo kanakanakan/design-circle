@@ -12,9 +12,10 @@
 
 ## カレンダーの回
 <p align="center">
-<img src="./calender01.png" alt="カレンダーのデザイン" style="width:50%">
+<img src="./calender_cover.png" alt="カレンダー表紙のデザイン" style="width:40%">
+<img src="./calender01.png" alt="1・2月カレンダーのデザイン" style="width:40%">
 </p>
 
 <p align="center">
-<img src="./calender_seal.png" alt="カレンダーのデザイン" style="width:90%">
+<img src="./calender_seal.png" alt="カレンダーシールのデザイン" style="width:90%">
 </p>
