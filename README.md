@@ -5,15 +5,14 @@
 <br />
 
 
-## しおりの回
+## ▼しおりの回
 <p align="center">
 <img src="./bookmark.png" alt="しおりのデザイン" style="width:80%">
 </p>
 
-## カレンダーの回
+## ▼カレンダーの回
 <p align="center">
 <img src="./calender_cover.png" alt="カレンダー表紙のデザイン" style="width:40%">
-<img src="./calender01.png" alt="1・2月カレンダーのデザイン" style="width:40%">
 </p>
 
 <p align="center">
